@@ -14,7 +14,7 @@ public class BestPractises3 {
     public void setUp() {
         selenium = new FirefoxDriver();
     }
-    
+     //comment
     @After
     public void tearDown() {
         selenium.quit();
